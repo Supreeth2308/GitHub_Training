@@ -2,3 +2,10 @@ This is test file
 This is second line of the test file !
 This is third line
 This is fourth line !
+<<<<<<< HEAD
+=======
+This is what I wanted to learn 
+Hurray !
+>>>>>>> deeb9bec0c8033577c1f5a21befef82b7dcad813
+
+Lets try Push now !
